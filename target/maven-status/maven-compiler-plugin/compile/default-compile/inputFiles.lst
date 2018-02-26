@@ -1,2 +1,6 @@
 /Users/CanSaygin/Desktop/Pluralsight/Creating-Your-First-Spring-Boot-Application/DasBoot/src/main/java/com/boot/controller/HomeController.java
-/Users/CanSaygin/Desktop/Pluralsight/Creating-Your-First-Spring-Boot-Application/DasBoot/src/main/java/App.java
+/Users/CanSaygin/Desktop/Pluralsight/Creating-Your-First-Spring-Boot-Application/DasBoot/src/main/java/com/boot/controller/ShipwreckController.java
+/Users/CanSaygin/Desktop/Pluralsight/Creating-Your-First-Spring-Boot-Application/DasBoot/src/main/java/com/boot/App.java
+/Users/CanSaygin/Desktop/Pluralsight/Creating-Your-First-Spring-Boot-Application/DasBoot/src/main/java/com/boot/config/PersistenceConfiguration.java
+/Users/CanSaygin/Desktop/Pluralsight/Creating-Your-First-Spring-Boot-Application/DasBoot/src/main/java/com/boot/controller/ShipwreckStub.java
+/Users/CanSaygin/Desktop/Pluralsight/Creating-Your-First-Spring-Boot-Application/DasBoot/src/main/java/com/boot/model/Shipwreck.java
